@@ -17,3 +17,18 @@ $test latex$
 $111222+a$
 
 $$111222+a$$
+
+HTML test:
+
+<details><summary>点击展开</summary>这里是隐藏内容</details>
+
+```
+使用的html为：
+<details>
+<summary>点击展开</summary>
+
+这里是隐藏内容
+
+</details>
+```
+
